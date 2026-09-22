@@ -1,4 +1,4 @@
-# Wine Quality Classification — NLP con TF-IDF
+# Wine Quality Classification - NLP con TF-IDF
 
 Text classification per predire la qualità di un vino basandosi
 esclusivamente sulla sua descrizione testuale, usando TF-IDF +
